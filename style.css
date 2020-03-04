@@ -1,0 +1,21 @@
+.bg{
+	background: url('./obrazy/background_sign.jpg') no-repeat center center fixed; 
+	width:100%; 
+	height:100vh;
+}
+
+.form-containter{
+	border:0px solid #fff;
+	padding:50px 60px;
+	margin-top:20vh;
+	box-shadow:-1px 4px 26px 11px rgba(0,0,0,0.75);}
+	
+.form-containter h1{
+color:#fff;	
+}
+.form-containter label{
+color:#fff;	
+}
+body { 
+   overflow-x: hidden;
+}
